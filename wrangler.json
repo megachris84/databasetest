@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "databasetest",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "289577c5-0f16-491f-b3b3-260e4a507cdd",
+      "database_name": "Database-teat"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
